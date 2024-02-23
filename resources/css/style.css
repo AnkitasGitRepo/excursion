@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    /* Set to the height of the viewport */
+    margin: 0; 
+}
+
+
+.video{
+    max-width: 80%; /* Ensure the video doesn't exceed its container's width */
+    
+}
+section {
+    text-align: center; /* Optional: Center text within the section */
+}
+.img{
+    align-items: ;
+}
+h1{
+color: white;
+}
+h2{
+color: white;
+}
+.a{
+color: aqua;
+}
+.b{
+color: gray;
+}
+.camp{
+padding: auto;
+margin: auto;
+box-sizing: border-box;
+}
+.phone{
+align-items: center;
+}
