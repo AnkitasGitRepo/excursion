@@ -9,11 +9,11 @@ body{
 
 
 .video{
-    max-width: 80%; /* Ensure the video doesn't exceed its container's width */
+    max-width: 80%; 
     
 }
 section {
-    text-align: center; /* Optional: Center text within the section */
+    text-align: center; 
 }
 .img{
     align-items: ;
